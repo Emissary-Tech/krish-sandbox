@@ -2,7 +2,7 @@
 __pycache__/
 *.py[oc]
 build/
-dist/
+dist/*.whl
 wheels/
 *.egg-info
 
